@@ -1,0 +1,7 @@
+pandas
+plotly
+numpy
+jupyter
+dash
+geopandas
+mapbox
